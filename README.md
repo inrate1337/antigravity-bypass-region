@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="Assets/preview.png" alt="Google Antigravity Patcher Preview" width="600"/>
+  <img src="patcher%20antigravity/Assets/preview.png" alt="Google Antigravity Patcher Preview" width="600"/>
 
   <h1>🚀 Google Antigravity Patcher</h1>
   
