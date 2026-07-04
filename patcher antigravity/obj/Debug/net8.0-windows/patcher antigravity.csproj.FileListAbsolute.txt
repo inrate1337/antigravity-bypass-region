@@ -1,0 +1,24 @@
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Debug\net8.0-windows\patcher antigravity_MarkupCompile.cache
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\bin\Debug\net8.0-windows\patcher antigravity.exe
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\bin\Debug\net8.0-windows\patcher antigravity.deps.json
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\bin\Debug\net8.0-windows\patcher antigravity.runtimeconfig.json
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\bin\Debug\net8.0-windows\patcher antigravity.dll
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\bin\Debug\net8.0-windows\patcher antigravity.pdb
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Debug\net8.0-windows\patcher antigravity_MarkupCompile.lref
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Debug\net8.0-windows\patcher antigravity.g.resources
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Debug\net8.0-windows\patcher antigravity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Debug\net8.0-windows\patcher antigravity.AssemblyInfoInputs.cache
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Debug\net8.0-windows\patcher antigravity.AssemblyInfo.cs
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Debug\net8.0-windows\patcher antigravity.csproj.CoreCompileInputs.cache
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Debug\net8.0-windows\patcher antigravity.dll
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Debug\net8.0-windows\refint\patcher antigravity.dll
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Debug\net8.0-windows\patcher antigravity.pdb
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Debug\net8.0-windows\patcher antigravity.genruntimeconfig.cache
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Debug\net8.0-windows\ref\patcher antigravity.dll
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\bin\Debug\net8.0-windows\2e6e57eafa14e9920ae8038254bcc23c.mp4
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\bin\Debug\net8.0-windows\WpfAnimatedGif.dll
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Debug\net8.0-windows\patcher antigravity.csproj.AssemblyReference.cache
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Debug\net8.0-windows\patcher .913A61DE.Up2Date

@@ -1,0 +1,47 @@
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\bin\Release\net8.0-windows\win-x64\patcher antigravity.exe
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\bin\Release\net8.0-windows\win-x64\patcher antigravity.deps.json
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\bin\Release\net8.0-windows\win-x64\patcher antigravity.runtimeconfig.json
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\bin\Release\net8.0-windows\win-x64\patcher antigravity.dll
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\bin\Release\net8.0-windows\win-x64\patcher antigravity.pdb
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\bin\Release\net8.0-windows\win-x64\WpfAnimatedGif.dll
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity.csproj.AssemblyReference.cache
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Release\net8.0-windows\win-x64\MainWindow.g.cs
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Release\net8.0-windows\win-x64\App.g.cs
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity_MarkupCompile.cache
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity_MarkupCompile.lref
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Release\net8.0-windows\win-x64\MainWindow.baml
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity.g.resources
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity.AssemblyInfoInputs.cache
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity.AssemblyInfo.cs
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity.csproj.CoreCompileInputs.cache
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher .913A61DE.Up2Date
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity.dll
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Release\net8.0-windows\win-x64\refint\patcher antigravity.dll
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity.pdb
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity.genruntimeconfig.cache
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\obj\Release\net8.0-windows\win-x64\ref\patcher antigravity.dll
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\bin\Release\net8.0-windows\win-x64\patcher antigravity.exe
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\bin\Release\net8.0-windows\win-x64\patcher antigravity.deps.json
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\bin\Release\net8.0-windows\win-x64\patcher antigravity.runtimeconfig.json
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\bin\Release\net8.0-windows\win-x64\patcher antigravity.dll
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\bin\Release\net8.0-windows\win-x64\patcher antigravity.pdb
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\bin\Release\net8.0-windows\win-x64\WpfAnimatedGif.dll
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity.csproj.AssemblyReference.cache
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\obj\Release\net8.0-windows\win-x64\MainWindow.g.cs
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\obj\Release\net8.0-windows\win-x64\App.g.cs
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity_MarkupCompile.cache
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity_MarkupCompile.lref
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\obj\Release\net8.0-windows\win-x64\MainWindow.baml
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity.g.resources
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity.AssemblyInfoInputs.cache
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity.AssemblyInfo.cs
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity.csproj.CoreCompileInputs.cache
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity.sourcelink.json
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher .913A61DE.Up2Date
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity.dll
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\obj\Release\net8.0-windows\win-x64\refint\patcher antigravity.dll
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity.pdb
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\obj\Release\net8.0-windows\win-x64\patcher antigravity.genruntimeconfig.cache
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\antigravity bypass region\patcher antigravity\obj\Release\net8.0-windows\win-x64\ref\patcher antigravity.dll

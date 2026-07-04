@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>patcher_antigravity</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <PublishSingleFile>true</PublishSingleFile>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <SelfContained>false</SelfContained>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\8509408716_d8e6eb6b345ada088e2448947c483ab4.gif" />
+    <None Remove="Assets\antigravity-logo.png" />
+    <None Remove="Assets\noise.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\8509408716_d8e6eb6b345ada088e2448947c483ab4.gif" />
+    <Resource Include="Assets\antigravity-logo.png" />
+    <Resource Include="Assets\noise.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WpfAnimatedGif" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Assets\2e6e57eafa14e9920ae8038254bcc23c.mp4" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\bin\Release\net8.0-windows\win-x64\publish\patcher antigravity.pdb
+C:\Users\uncutemurder\source\repos\patcher antigravity\patcher antigravity\bin\Release\net8.0-windows\win-x64\publish\patcher antigravity.exe
