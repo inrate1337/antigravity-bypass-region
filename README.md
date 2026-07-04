@@ -5,7 +5,7 @@
   <h1>🚀 Google Antigravity Patcher</h1>
   
   <p>
-    <strong>A sleek, modern, and automated patcher for Antigravity IDE and CLI.</strong>
+    <strong>automated patcher for Antigravity IDE and CLI.</strong>
   </p>
 
   <p>
